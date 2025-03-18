@@ -20,4 +20,6 @@ El principal objetivo de este proyecto fue reforzar conceptos fundamentales de *
 ## Cómo probarlo 🛠️
 
 1. Clona este repositorio en tu máquina local:
+      ```bash
+   git clone https://github.com/Inesc28/todo-list
 
